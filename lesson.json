@@ -1,0 +1,5238 @@
+[
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2334,
+      "name": "Introduction",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4729,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 109596,
+              "text": "True",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 109597,
+              "text": "False",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2334,
+      "name": "Introduction",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4730,
+          "number": 2,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 106558,
+              "text": "print",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 106559,
+              "text": "\\",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2334,
+      "name": "Introduction",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4731,
+          "number": 3,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96503,
+              "text": "//",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2334,
+      "name": "Introduction",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4894,
+          "number": 4,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 60908,
+              "text": "Playgrounds",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 60909,
+              "text": "Debugger",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 60910,
+              "text": "Terminal",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 60911,
+              "text": "Console",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2335,
+      "name": "Constants & Variables",
+      "type": 0,
+      "mode": 1,
+      "tags": "constants variables",
+      "quizzes": [
+        {
+          "id": 4732,
+          "number": 1,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96507,
+              "text": "var",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96508,
+              "text": "=",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96509,
+              "text": "test",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2335,
+      "name": "Constants & Variables",
+      "type": 0,
+      "mode": 1,
+      "tags": "constants variables",
+      "quizzes": [
+        {
+          "id": 4733,
+          "number": 2,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96510,
+              "text": "let",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96511,
+              "text": "var",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96512,
+              "text": "age",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96513,
+              "text": "name",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96514,
+              "text": "const",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2335,
+      "name": "Constants & Variables",
+      "type": 0,
+      "mode": 1,
+      "tags": "constants variables",
+      "quizzes": [
+        {
+          "id": 4734,
+          "number": 3,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59151,
+              "text": "3rdfriendname",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59152,
+              "text": "first-name",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59153,
+              "text": "first_name",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 59154,
+              "text": "12",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2336,
+      "name": "Type Annotations",
+      "type": 0,
+      "mode": 1,
+      "tags": "variables",
+      "quizzes": [
+        {
+          "id": 4735,
+          "number": 1,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96515,
+              "text": "var",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96516,
+              "text": "String",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96517,
+              "text": "Double",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96518,
+              "text": "text",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96519,
+              "text": "let",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2336,
+      "name": "Type Annotations",
+      "type": 0,
+      "mode": 1,
+      "tags": "variables",
+      "quizzes": [
+        {
+          "id": 4736,
+          "number": 2,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96520,
+              "text": "Int",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96521,
+              "text": "Double",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96522,
+              "text": "Float",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96523,
+              "text": "String",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2337,
+      "name": "Basic Operators: Part 1",
+      "type": 0,
+      "mode": 1,
+      "tags": "operators",
+      "quizzes": [
+        {
+          "id": 4737,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59181,
+              "text": "Unary",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59182,
+              "text": "Binary",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59183,
+              "text": "Ternary",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59184,
+              "text": "Combinatory",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2337,
+      "name": "Basic Operators: Part 1",
+      "type": 0,
+      "mode": 1,
+      "tags": "operators",
+      "quizzes": [
+        {
+          "id": 4738,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96525,
+              "text": "2",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2337,
+      "name": "Basic Operators: Part 1",
+      "type": 0,
+      "mode": 1,
+      "tags": "operators",
+      "quizzes": [
+        {
+          "id": 4739,
+          "number": 3,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96526,
+              "text": "3",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2337,
+      "name": "Basic Operators: Part 1",
+      "type": 0,
+      "mode": 1,
+      "tags": "operators",
+      "quizzes": [
+        {
+          "id": 4740,
+          "number": 4,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96527,
+              "text": "2 0 2",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96528,
+              "text": "2 0 1",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96529,
+              "text": "2 1 2",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96530,
+              "text": "2 1 1",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2338,
+      "name": "Basic Operators: Part 2",
+      "type": 0,
+      "mode": 1,
+      "tags": "operators",
+      "quizzes": [
+        {
+          "id": 4741,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96531,
+              "text": "b != a",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96532,
+              "text": "b > a",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96533,
+              "text": "a <= a",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96534,
+              "text": "b <= a",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2338,
+      "name": "Basic Operators: Part 2",
+      "type": 0,
+      "mode": 1,
+      "tags": "operators",
+      "quizzes": [
+        {
+          "id": 4742,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 104396,
+              "text": "90",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2338,
+      "name": "Basic Operators: Part 2",
+      "type": 0,
+      "mode": 1,
+      "tags": "operators",
+      "quizzes": [
+        {
+          "id": 4743,
+          "number": 3,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96536,
+              "text": "1...5",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96537,
+              "text": "1..<5",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96538,
+              "text": "1...4",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96539,
+              "text": "1..<4",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2338,
+      "name": "Basic Operators: Part 2",
+      "type": 0,
+      "mode": 1,
+      "tags": "operators",
+      "quizzes": [
+        {
+          "id": 4744,
+          "number": 4,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 62114,
+              "text": "Fail",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 62115,
+              "text": "Success",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 62116,
+              "text": "Undefined",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2363,
+      "name": "Optionals",
+      "type": 0,
+      "mode": 1,
+      "tags": "optionals",
+      "quizzes": [
+        {
+          "id": 4838,
+          "number": 1,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96540,
+              "text": "?",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "var test: String",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2363,
+      "name": "Optionals",
+      "type": 0,
+      "mode": 1,
+      "tags": "optionals",
+      "quizzes": [
+        {
+          "id": 4839,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 97208,
+              "text": "nil",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2339,
+      "name": "Module 1 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4745,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 106667,
+              "text": "Swift is a type safe language",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 106668,
+              "text": "Swift always chooses Float over Double",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 106669,
+              "text": "Comments are ignored by the Swift compiler",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 106670,
+              "text": "Swift requires you to write a semicolon after each statement",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2339,
+      "name": "Module 1 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4746,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 55399,
+              "text": "40",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2339,
+      "name": "Module 1 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4747,
+          "number": 3,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 99744,
+              "text": "-3",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 99745,
+              "text": "-4",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 99746,
+              "text": "4",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2339,
+      "name": "Module 1 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4748,
+          "number": 4,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 52445,
+              "text": "false",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 52446,
+              "text": "true",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 52447,
+              "text": "undefined",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "The Basics",
+    "lesson": {
+      "id": 2339,
+      "name": "Module 1 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4749,
+          "number": 5,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 52455,
+              "text": "var",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 52456,
+              "text": "+",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 52457,
+              "text": "sum",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2341,
+      "name": "while Loops",
+      "type": 0,
+      "mode": 1,
+      "tags": "loops",
+      "quizzes": [
+        {
+          "id": 4753,
+          "number": 1,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96551,
+              "text": "while",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96552,
+              "text": "{",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96553,
+              "text": "}",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2341,
+      "name": "while Loops",
+      "type": 0,
+      "mode": 1,
+      "tags": "loops",
+      "quizzes": [
+        {
+          "id": 4754,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96554,
+              "text": "2",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2385,
+      "name": "for Loops",
+      "type": 0,
+      "mode": 1,
+      "tags": "loops",
+      "quizzes": [
+        {
+          "id": 4755,
+          "number": 1,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96555,
+              "text": "for",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96556,
+              "text": "in",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96557,
+              "text": "3",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2385,
+      "name": "for Loops",
+      "type": 0,
+      "mode": 1,
+      "tags": "loops",
+      "quizzes": [
+        {
+          "id": 4756,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96558,
+              "text": "4",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2342,
+      "name": "Control Transfer Statements",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4757,
+          "number": 1,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 106542,
+              "text": "while",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 106543,
+              "text": "if",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 106544,
+              "text": "continue",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 106545,
+              "text": "for",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 106546,
+              "text": "else",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 106547,
+              "text": "stop",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2342,
+      "name": "Control Transfer Statements",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4758,
+          "number": 2,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 105172,
+              "text": "while",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 105173,
+              "text": "break",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2342,
+      "name": "Control Transfer Statements",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4759,
+          "number": 3,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96567,
+              "text": "Yes",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96568,
+              "text": "No",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2343,
+      "name": "Strings",
+      "type": 0,
+      "mode": 1,
+      "tags": "strings",
+      "quizzes": [
+        {
+          "id": 4760,
+          "number": 1,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96569,
+              "text": "var",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96570,
+              "text": "sample",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2343,
+      "name": "Strings",
+      "type": 0,
+      "mode": 1,
+      "tags": "strings",
+      "quizzes": [
+        {
+          "id": 4761,
+          "number": 2,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96571,
+              "text": "if",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96572,
+              "text": "someString",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96573,
+              "text": "isEmpty",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2386,
+      "name": "Working with Strings",
+      "type": 0,
+      "mode": 1,
+      "tags": "strings",
+      "quizzes": [
+        {
+          "id": 4762,
+          "number": 1,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96574,
+              "text": "var",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96575,
+              "text": "+",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96576,
+              "text": "s2",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2386,
+      "name": "Working with Strings",
+      "type": 0,
+      "mode": 1,
+      "tags": "strings",
+      "quizzes": [
+        {
+          "id": 4763,
+          "number": 2,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 105180,
+              "text": "Yes",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 105181,
+              "text": "No",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2386,
+      "name": "Working with Strings",
+      "type": 0,
+      "mode": 1,
+      "tags": "strings",
+      "quizzes": [
+        {
+          "id": 4764,
+          "number": 3,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96579,
+              "text": "9",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2386,
+      "name": "Working with Strings",
+      "type": 0,
+      "mode": 1,
+      "tags": "strings",
+      "quizzes": [
+        {
+          "id": 4765,
+          "number": 4,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96580,
+              "text": "==",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96581,
+              "text": "s2",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2344,
+      "name": "Arrays",
+      "type": 0,
+      "mode": 1,
+      "tags": "arrays",
+      "quizzes": [
+        {
+          "id": 4766,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96582,
+              "text": "var array = [String]()",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96583,
+              "text": "var array = (String)",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96584,
+              "text": "var array = ([ ])",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2344,
+      "name": "Arrays",
+      "type": 0,
+      "mode": 1,
+      "tags": "arrays",
+      "quizzes": [
+        {
+          "id": 4767,
+          "number": 2,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96585,
+              "text": "[Int]",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96586,
+              "text": "11",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96587,
+              "text": "22",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96588,
+              "text": "String",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96589,
+              "text": "Array",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2344,
+      "name": "Arrays",
+      "type": 0,
+      "mode": 1,
+      "tags": "arrays",
+      "quizzes": [
+        {
+          "id": 4768,
+          "number": 3,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96590,
+              "text": "isEmpty",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96591,
+              "text": "else",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96592,
+              "text": "myArr",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96593,
+              "text": "count",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2387,
+      "name": "Modifying an Array",
+      "type": 0,
+      "mode": 1,
+      "tags": "arrays",
+      "quizzes": [
+        {
+          "id": 4769,
+          "number": 1,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96594,
+              "text": "+=",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96595,
+              "text": "count",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2387,
+      "name": "Modifying an Array",
+      "type": 0,
+      "mode": 1,
+      "tags": "arrays",
+      "quizzes": [
+        {
+          "id": 4770,
+          "number": 2,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96596,
+              "text": "True",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96597,
+              "text": "False",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2387,
+      "name": "Modifying an Array",
+      "type": 0,
+      "mode": 1,
+      "tags": "arrays",
+      "quizzes": [
+        {
+          "id": 4771,
+          "number": 3,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96598,
+              "text": "removeLast()",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96599,
+              "text": "insert",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96600,
+              "text": "atIndex",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96601,
+              "text": "count",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96602,
+              "text": "remove()",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2387,
+      "name": "Modifying an Array",
+      "type": 0,
+      "mode": 1,
+      "tags": "arrays",
+      "quizzes": [
+        {
+          "id": 4772,
+          "number": 4,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96603,
+              "text": "for",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96604,
+              "text": "in",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96605,
+              "text": "+=",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2345,
+      "name": "Sets",
+      "type": 0,
+      "mode": 1,
+      "tags": "sets",
+      "quizzes": [
+        {
+          "id": 4773,
+          "number": 1,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96606,
+              "text": "[",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96607,
+              "text": "]",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2345,
+      "name": "Sets",
+      "type": 0,
+      "mode": 1,
+      "tags": "sets",
+      "quizzes": [
+        {
+          "id": 4774,
+          "number": 2,
+          "type": 8,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96608,
+              "text": "if mySet.contains(\"42\") {",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96609,
+              "text": "mySet.removeAll()",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96610,
+              "text": "} else {",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96611,
+              "text": "print(mySet.count)",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96612,
+              "text": "}",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2345,
+      "name": "Sets",
+      "type": 0,
+      "mode": 1,
+      "tags": "sets",
+      "quizzes": [
+        {
+          "id": 4775,
+          "number": 3,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96613,
+              "text": "sort",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": "()"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2388,
+      "name": "Set Operations",
+      "type": 0,
+      "mode": 1,
+      "tags": "sets",
+      "quizzes": [
+        {
+          "id": 4776,
+          "number": 1,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 106666,
+              "text": "2",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2388,
+      "name": "Set Operations",
+      "type": 0,
+      "mode": 1,
+      "tags": "sets",
+      "quizzes": [
+        {
+          "id": 4777,
+          "number": 2,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59560,
+              "text": "isSubsetOf",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 59561,
+              "text": "Set",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 59562,
+              "text": "intersect",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 59563,
+              "text": "union",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59564,
+              "text": "subtract",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59565,
+              "text": "isSupersetOf",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2346,
+      "name": "Dictionaries",
+      "type": 0,
+      "mode": 1,
+      "tags": "dictionaries",
+      "quizzes": [
+        {
+          "id": 4778,
+          "number": 1,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96615,
+              "text": "Int",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96616,
+              "text": "String",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96617,
+              "text": "()",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2346,
+      "name": "Dictionaries",
+      "type": 0,
+      "mode": 1,
+      "tags": "dictionaries",
+      "quizzes": [
+        {
+          "id": 4779,
+          "number": 2,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96618,
+              "text": ":",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96619,
+              "text": "[",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96620,
+              "text": ",",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96621,
+              "text": ":",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2346,
+      "name": "Dictionaries",
+      "type": 0,
+      "mode": 1,
+      "tags": "dictionaries",
+      "quizzes": [
+        {
+          "id": 4780,
+          "number": 3,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96623,
+              "text": "2",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2346,
+      "name": "Dictionaries",
+      "type": 0,
+      "mode": 1,
+      "tags": "dictionaries",
+      "quizzes": [
+        {
+          "id": 4781,
+          "number": 4,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96624,
+              "text": "for",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96625,
+              "text": "values",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96626,
+              "text": "keys",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96627,
+              "text": "in",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96628,
+              "text": "sort()",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2347,
+      "name": "Module 2 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4782,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 52900,
+              "text": "True",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 52901,
+              "text": "False",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2347,
+      "name": "Module 2 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4783,
+          "number": 2,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 60732,
+              "text": "for",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 60733,
+              "text": "x",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2347,
+      "name": "Module 2 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4784,
+          "number": 3,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 52905,
+              "text": "17",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2347,
+      "name": "Module 2 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4785,
+          "number": 4,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 52906,
+              "text": "for ",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 52907,
+              "text": "in ",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 52908,
+              "text": "if",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 52909,
+              "text": "++",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2347,
+      "name": "Module 2 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4786,
+          "number": 5,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 52911,
+              "text": "9",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Control Flow & Collections",
+    "lesson": {
+      "id": 2347,
+      "name": "Module 2 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4787,
+          "number": 6,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 52916,
+              "text": "for",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 52917,
+              "text": "in",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 52918,
+              "text": "keys",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 52919,
+              "text": "index",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2350,
+      "name": "Function Types",
+      "type": 0,
+      "mode": 1,
+      "tags": "functions",
+      "quizzes": [
+        {
+          "id": 4797,
+          "number": 1,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96655,
+              "text": " -> ",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96656,
+              "text": "Int",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96657,
+              "text": "String",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96658,
+              "text": "param",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96659,
+              "text": "var",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2350,
+      "name": "Function Types",
+      "type": 0,
+      "mode": 1,
+      "tags": "functions",
+      "quizzes": [
+        {
+          "id": 4798,
+          "number": 2,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96660,
+              "text": "String",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96661,
+              "text": "myFunc",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96662,
+              "text": "Double",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96663,
+              "text": "func",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96664,
+              "text": "->",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96665,
+              "text": "Int",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2350,
+      "name": "Function Types",
+      "type": 0,
+      "mode": 1,
+      "tags": "functions",
+      "quizzes": [
+        {
+          "id": 4799,
+          "number": 3,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96668,
+              "text": "Yes",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96669,
+              "text": "No",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2350,
+      "name": "Function Types",
+      "type": 0,
+      "mode": 1,
+      "tags": "functions",
+      "quizzes": [
+        {
+          "id": 4800,
+          "number": 4,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96670,
+              "text": "One",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96671,
+              "text": "None",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96672,
+              "text": "Multiple",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2350,
+      "name": "Function Types",
+      "type": 0,
+      "mode": 1,
+      "tags": "functions",
+      "quizzes": [
+        {
+          "id": 4801,
+          "number": 5,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96673,
+              "text": "2",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2351,
+      "name": "Closures",
+      "type": 0,
+      "mode": 1,
+      "tags": "closures",
+      "quizzes": [
+        {
+          "id": 4802,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 65741,
+              "text": "Nested functions",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 65742,
+              "text": "Global functions",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 65743,
+              "text": "Variables",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 65744,
+              "text": "Arrays",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2351,
+      "name": "Closures",
+      "type": 0,
+      "mode": 1,
+      "tags": "closures",
+      "quizzes": [
+        {
+          "id": 4927,
+          "number": 2,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96676,
+              "text": "Yes",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96677,
+              "text": "No",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2351,
+      "name": "Closures",
+      "type": 0,
+      "mode": 1,
+      "tags": "closures",
+      "quizzes": [
+        {
+          "id": 4803,
+          "number": 3,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96678,
+              "text": "{",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96679,
+              "text": "in",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96680,
+              "text": "}",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2351,
+      "name": "Closures",
+      "type": 0,
+      "mode": 1,
+      "tags": "closures",
+      "quizzes": [
+        {
+          "id": 4804,
+          "number": 4,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96681,
+              "text": "func",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96682,
+              "text": "->",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96683,
+              "text": "return",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96684,
+              "text": "in",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2351,
+      "name": "Closures",
+      "type": 0,
+      "mode": 1,
+      "tags": "closures",
+      "quizzes": [
+        {
+          "id": 4928,
+          "number": 5,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96685,
+              "text": "{",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96686,
+              "text": "in",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96687,
+              "text": "}",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2351,
+      "name": "Closures",
+      "type": 0,
+      "mode": 1,
+      "tags": "closures",
+      "quizzes": [
+        {
+          "id": 4805,
+          "number": 6,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96688,
+              "text": "a",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2352,
+      "name": "Tuples",
+      "type": 0,
+      "mode": 1,
+      "tags": "tuples",
+      "quizzes": [
+        {
+          "id": 4806,
+          "number": 1,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96689,
+              "text": "48",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2353,
+      "name": "Enumerations",
+      "type": 0,
+      "mode": 1,
+      "tags": "enums",
+      "quizzes": [
+        {
+          "id": 4807,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96690,
+              "text": "One",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96691,
+              "text": "Two",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96692,
+              "text": "Multiple",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2353,
+      "name": "Enumerations",
+      "type": 0,
+      "mode": 1,
+      "tags": "enums",
+      "quizzes": [
+        {
+          "id": 4808,
+          "number": 2,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96693,
+              "text": "enum",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96694,
+              "text": "case",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2354,
+      "name": "Module 3 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4809,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 53220,
+              "text": "Functions are self-contained chunks of code that perform a specific task.",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 53221,
+              "text": "Global and nested functions, are actually special cases of closures.",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 53222,
+              "text": "Enumeration members are assigned a default integer value when they are created.",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 53223,
+              "text": "The return value of a function can be ignored when it is called",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2354,
+      "name": "Module 3 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4810,
+          "number": 2,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59708,
+              "text": "func",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 59709,
+              "text": ":",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 59710,
+              "text": "num",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2354,
+      "name": "Module 3 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4811,
+          "number": 3,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 63356,
+              "text": "func",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 63357,
+              "text": "=",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 63358,
+              "text": "p2",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Functions, Closures",
+    "lesson": {
+      "id": 2354,
+      "name": "Module 3 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4812,
+          "number": 4,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 53443,
+              "text": "enum",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 53444,
+              "text": "case",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 53445,
+              "text": ":",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2358,
+      "name": "Methods",
+      "type": 0,
+      "mode": 1,
+      "tags": "methods",
+      "quizzes": [
+        {
+          "id": 4825,
+          "number": 1,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96720,
+              "text": "class",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96721,
+              "text": "func",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96722,
+              "text": "st",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96723,
+              "text": "printAge()",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2358,
+      "name": "Methods",
+      "type": 0,
+      "mode": 1,
+      "tags": "methods",
+      "quizzes": [
+        {
+          "id": 4826,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96724,
+              "text": "self",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2358,
+      "name": "Methods",
+      "type": 0,
+      "mode": 1,
+      "tags": "methods",
+      "quizzes": [
+        {
+          "id": 4827,
+          "number": 3,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 106561,
+              "text": "mutating",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2358,
+      "name": "Methods",
+      "type": 0,
+      "mode": 1,
+      "tags": "methods",
+      "quizzes": [
+        {
+          "id": 4828,
+          "number": 4,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96726,
+              "text": "static",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": " func someFunc()"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2359,
+      "name": "Subscripts",
+      "type": 0,
+      "mode": 1,
+      "tags": "subscripts",
+      "quizzes": [
+        {
+          "id": 4829,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96727,
+              "text": "access values from an instance",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96728,
+              "text": "access the methods of an instance",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96729,
+              "text": "create structures",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96730,
+              "text": "reset values in an array",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2359,
+      "name": "Subscripts",
+      "type": 0,
+      "mode": 1,
+      "tags": "subscripts",
+      "quizzes": [
+        {
+          "id": 4830,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96731,
+              "text": "16",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2360,
+      "name": "Inheritance",
+      "type": 0,
+      "mode": 1,
+      "tags": "inheritance",
+      "quizzes": [
+        {
+          "id": 4831,
+          "number": 1,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96732,
+              "text": ":",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2360,
+      "name": "Inheritance",
+      "type": 0,
+      "mode": 1,
+      "tags": "inheritance",
+      "quizzes": [
+        {
+          "id": 4833,
+          "number": 2,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96733,
+              "text": "class ",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96734,
+              "text": "Student",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96735,
+              "text": "Person",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96736,
+              "text": "override",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96737,
+              "text": "func",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2361,
+      "name": "Initialization",
+      "type": 0,
+      "mode": 1,
+      "tags": "classes",
+      "quizzes": [
+        {
+          "id": 4834,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96738,
+              "text": "One",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96739,
+              "text": "None",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96740,
+              "text": "As many as you define",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2361,
+      "name": "Initialization",
+      "type": 0,
+      "mode": 1,
+      "tags": "classes",
+      "quizzes": [
+        {
+          "id": 4835,
+          "number": 2,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96741,
+              "text": "init",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96742,
+              "text": "a:",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96743,
+              "text": "22",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2361,
+      "name": "Initialization",
+      "type": 0,
+      "mode": 1,
+      "tags": "classes",
+      "quizzes": [
+        {
+          "id": 4836,
+          "number": 3,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96744,
+              "text": "required",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2362,
+      "name": "Deinitialization",
+      "type": 0,
+      "mode": 1,
+      "tags": "classes",
+      "quizzes": [
+        {
+          "id": 4837,
+          "number": 1,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96745,
+              "text": "init",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96746,
+              "text": "deinit",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2364,
+      "name": "Module 4 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4840,
+          "number": 1,
+          "type": 8,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 53769,
+              "text": "class MyClass {",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 53770,
+              "text": "   func foo(a:Int, b:Int) {",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 53771,
+              "text": "     print((a-b)/b) }",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 53772,
+              "text": "}",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2364,
+      "name": "Module 4 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4842,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 55429,
+              "text": "c",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2364,
+      "name": "Module 4 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4841,
+          "number": 3,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 53824,
+              "text": "final",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2364,
+      "name": "Module 4 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4844,
+          "number": 4,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 53825,
+              "text": "70",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Object Oriented Programming",
+    "lesson": {
+      "id": 2364,
+      "name": "Module 4 Quiz",
+      "type": 1,
+      "mode": 0,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4843,
+          "number": 5,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 60750,
+              "text": "class",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 60751,
+              "text": "func",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 60752,
+              "text": ":",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 60753,
+              "text": "override",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 60754,
+              "text": "init",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2369,
+      "name": "The Storyboard",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4854,
+          "number": 1,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59917,
+              "text": "canvas",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2369,
+      "name": "The Storyboard",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4855,
+          "number": 2,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59913,
+              "text": "UIView",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 59914,
+              "text": "UIController",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59915,
+              "text": "UICanvas",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59916,
+              "text": "UInterface",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2369,
+      "name": "The Storyboard",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4856,
+          "number": 3,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59867,
+              "text": "Attribute inspector",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 59868,
+              "text": "Canvas",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59869,
+              "text": "Navigation",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59870,
+              "text": "Scheme",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2369,
+      "name": "The Storyboard",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4857,
+          "number": 4,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59871,
+              "text": "View",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 59872,
+              "text": "First Responder",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59873,
+              "text": "Entry Point",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59874,
+              "text": "Bottom Layout",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2370,
+      "name": "Auto Layout",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4858,
+          "number": 1,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59885,
+              "text": "stack",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2370,
+      "name": "Auto Layout",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4859,
+          "number": 2,
+          "type": 8,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59886,
+              "text": "View Controller Scene",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59887,
+              "text": "View Controller",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59888,
+              "text": "View",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59889,
+              "text": "Stack View",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2370,
+      "name": "Auto Layout",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4860,
+          "number": 3,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59894,
+              "text": "pin",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2370,
+      "name": "Auto Layout",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4861,
+          "number": 4,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59901,
+              "text": "Command+K",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 59902,
+              "text": "Command+W",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59903,
+              "text": "Ctrl+K",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59904,
+              "text": "Shift+K",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2371,
+      "name": "Connect the UI to Code",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4862,
+          "number": 1,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59912,
+              "text": "actions",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2371,
+      "name": "Connect the UI to Code",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4863,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96752,
+              "text": "weak",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": " var myLabel: UILabel!"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2371,
+      "name": "Connect the UI to Code",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4864,
+          "number": 3,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96753,
+              "text": "method",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96754,
+              "text": "class",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96755,
+              "text": "struct",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96756,
+              "text": "dictionary",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2371,
+      "name": "Connect the UI to Code",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4865,
+          "number": 4,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96757,
+              "text": ".text",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96758,
+              "text": "=",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2372,
+      "name": "View Controller Lifecycle",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4866,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59944,
+              "text": "viewDidLoad()",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59945,
+              "text": "viewWillAppear()",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59946,
+              "text": "viewDidAppear()",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2373,
+      "name": "A ToDo List App",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4867,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59947,
+              "text": "UITableView",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 59948,
+              "text": "UITableClass",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59949,
+              "text": "UIScroll",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59950,
+              "text": "UIItems",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2373,
+      "name": "A ToDo List App",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4868,
+          "number": 2,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 93573,
+              "text": "--->",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 93574,
+              "text": "X",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 93575,
+              "text": "<--",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2373,
+      "name": "A ToDo List App",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4869,
+          "number": 3,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 76789,
+              "text": "custom classes",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 76790,
+              "text": "data file",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 76791,
+              "text": "view model",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2374,
+      "name": "Custom Table Cells",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4870,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 59968,
+              "text": "prototype",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 59969,
+              "text": "terminator",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59970,
+              "text": "customizator",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 59971,
+              "text": "singleCell",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2374,
+      "name": "Custom Table Cells",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4871,
+          "number": 2,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 60051,
+              "text": "Attributes inspector",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 60052,
+              "text": "Size inspector",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 60053,
+              "text": "Connection inspector",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 60054,
+              "text": "View inspector",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2374,
+      "name": "Custom Table Cells",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4872,
+          "number": 3,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96759,
+              "text": "@IBOutlet",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96760,
+              "text": "UILabel!",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96761,
+              "text": "let",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96762,
+              "text": "static",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96763,
+              "text": "required",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2375,
+      "name": "Data Model",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4873,
+          "number": 1,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96764,
+              "text": "String",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96765,
+              "text": "Double",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96766,
+              "text": "init",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96767,
+              "text": "price ",
+              "isCorrect": true,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2376,
+      "name": "Load Initial Data",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4874,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 60076,
+              "text": "UITableViewController",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 60077,
+              "text": "UITableCell",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 60078,
+              "text": "UIButton",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 60079,
+              "text": "UIClass",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2376,
+      "name": "Load Initial Data",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4875,
+          "number": 2,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96768,
+              "text": "+=",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            },
+            {
+              "id": 96769,
+              "text": "]",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2376,
+      "name": "Load Initial Data",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4876,
+          "number": 3,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96770,
+              "text": ".count",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "return array",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2376,
+      "name": "Load Initial Data",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4877,
+          "number": 4,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96771,
+              "text": "tableView(_:cellForRowAtIndexPath:)",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96772,
+              "text": "table(_:cellForRowAtIndexPath:)",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96773,
+              "text": "View()",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96774,
+              "text": "tableCell(_:cellForRowAtIndexPath:)",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2377,
+      "name": "Implement Navigation",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4878,
+          "number": 1,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 60099,
+              "text": "segues",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2377,
+      "name": "Implement Navigation",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4879,
+          "number": 2,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 60104,
+              "text": "Bar Button Item",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 60105,
+              "text": "Nav Button Item",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 60106,
+              "text": "Bar Press Item",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 60107,
+              "text": "Bar Action Item",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2377,
+      "name": "Implement Navigation",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4880,
+          "number": 3,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 61335,
+              "text": "the Action Segue menu",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 61336,
+              "text": "Identity inspector",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 61337,
+              "text": "the File menu",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2377,
+      "name": "Implement Navigation",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4881,
+          "number": 4,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 63408,
+              "text": "True",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 63409,
+              "text": "False",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2378,
+      "name": "Adding Items",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4882,
+          "number": 1,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96775,
+              "text": "?",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2378,
+      "name": "Adding Items",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4883,
+          "number": 2,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96776,
+              "text": "sender",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96777,
+              "text": "as?",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96778,
+              "text": "as",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96779,
+              "text": "event",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96780,
+              "text": "func",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2378,
+      "name": "Adding Items",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4884,
+          "number": 3,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96781,
+              "text": "dismissViewControllerAnimated()",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96782,
+              "text": "dismissViewControllerNow()",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96783,
+              "text": "exitViewControllerAnimated()",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96784,
+              "text": "closeViewControllerAnimated()",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2379,
+      "name": "Implement Edit",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4885,
+          "number": 1,
+          "type": 1,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 60257,
+              "text": "Identifier",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 60258,
+              "text": "Name",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 60259,
+              "text": "Instance",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 60260,
+              "text": "Module",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2379,
+      "name": "Implement Edit",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4886,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96785,
+              "text": "prepare",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "func ",
+                "postfix": "ForSegue()"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2379,
+      "name": "Implement Edit",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4887,
+          "number": 3,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96786,
+              "text": "append",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2379,
+      "name": "Implement Edit",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4888,
+          "number": 4,
+          "type": 3,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96787,
+              "text": "pop",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2380,
+      "name": "Deleting Items",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4889,
+          "number": 1,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96792,
+              "text": "editButtonItem",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96793,
+              "text": "modify",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96794,
+              "text": "save",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96795,
+              "text": "show",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2381,
+      "name": "Adding Images",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4890,
+          "number": 1,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 60296,
+              "text": "2",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": "x"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2382,
+      "name": "Persist Data",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4891,
+          "number": 1,
+          "type": 6,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 96796,
+              "text": "class",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96797,
+              "text": "NSCoding",
+              "isCorrect": true,
+              "properties": {}
+            },
+            {
+              "id": 96798,
+              "text": "NSEncoding",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96799,
+              "text": "NSFiles",
+              "isCorrect": false,
+              "properties": {}
+            },
+            {
+              "id": 96800,
+              "text": "Test",
+              "isCorrect": false,
+              "properties": {}
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2382,
+      "name": "Persist Data",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4892,
+          "number": 2,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 60351,
+              "text": "static",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "chapter": "Your First iOS App",
+    "lesson": {
+      "id": 2382,
+      "name": "Persist Data",
+      "type": 0,
+      "mode": 1,
+      "tags": null,
+      "quizzes": [
+        {
+          "id": 4893,
+          "number": 3,
+          "type": 2,
+          "linkedQuizID": null,
+          "answers": [
+            {
+              "id": 61345,
+              "text": "?",
+              "isCorrect": false,
+              "properties": {
+                "prefix": "",
+                "postfix": ""
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
